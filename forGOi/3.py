@@ -13,5 +13,6 @@ print('T2')
 
 print('dasda')
 
+a = int(input())
 
 b = int(input())
