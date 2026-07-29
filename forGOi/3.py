@@ -18,7 +18,12 @@ a = int(input())
 
 b = int(input())
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+>>>>>>> Stashed changes
+=======
+
+print(a+b)
 >>>>>>> Stashed changes
 =======
 
