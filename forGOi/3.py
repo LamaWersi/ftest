@@ -12,3 +12,6 @@ print('T2')
 
 
 print('dasda')
+
+
+b = int(input())
