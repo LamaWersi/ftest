@@ -39,3 +39,6 @@ print(a+b)
 
 print(a+b)
 >>>>>>> Stashed changes
+
+
+print('no')
